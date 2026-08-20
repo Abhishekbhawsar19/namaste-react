@@ -1,1 +1,1 @@
-Namaste React Episode 01
+Namaste React
