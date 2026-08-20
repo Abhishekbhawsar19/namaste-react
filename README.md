@@ -10,3 +10,6 @@ Namaste React
 - Image Optimization
 - Bundling
 - Compress
+- Consistant Hashing
+- Code Spliting
+- Differential Bundling - support older browsers
