@@ -13,3 +13,4 @@ Namaste React
 - Consistant Hashing
 - Code Spliting
 - Differential Bundling - support older browsers
+- Tree Shaking - remove unused code
